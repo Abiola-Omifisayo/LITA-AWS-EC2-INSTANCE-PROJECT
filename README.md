@@ -1,5 +1,5 @@
-# LITA-AWS-EC2-INSTANCE-PROJECT
- A project on creation of EC2 instance in AWS environment
+# LITA-SMARTSHOP-PROJECT
+ A project on the creation of a suitable solution for SmartShop a fictional mid-sized retail company working towards launching an online store.  
 ## Project Goal
  The project goal is to develop a reliable solution for SmartShop using AWS infrastructure,
  that is able to do the following:
